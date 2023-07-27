@@ -4,25 +4,25 @@ const productos = [
         nombre: "harina",
         precio: 400,
         img: 
-        "https://i.blogs.es/95d4c3/harina-trigo-tipos/1024_2000.jpg",
+        "https://imgs.search.brave.com/0rADYsSqCFD-yqCFOUMxwOROnbXHQOzX6yzH2pzLuQU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/bUJIUFJEUjNKVXRT/MVRqY0lTVnVRSGFI/YSZwaWQ9QXBp",
     },
     {
         id: 2,
         nombre: "galletitas",
         precio: 200,
         img:
-        "https://media.minutouno.com/p/26bc9cf77212dba4111b163374ab4611/adjuntos/150/imagenes/039/611/0039611456/galletitas-chip-chocolate.jpg",
+        "https://imgs.search.brave.com/55gNtIZbX6WBcYtNlQj2RALgF7MGXj5-inCG7S7AQno/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZGlzdHJpYnVpZG9y/YXBvcC5jb20uYXIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDUvZ2FsbGV0aXRh/cy1jYWNoYWZhei5q/cGc",
     },
     {
         id: 3,
         nombre: "cerveza",
         precio: 700,
-        img:"https://www.ceupe.com/images/easyblog_articles/3121/b2ap3_large_cerveza-artesanal.jpg", 
+        img:"https://imgs.search.brave.com/lc3-PPZWksqJxFiD1l6eNOo9mrEMhzxuih1JKx2BDp8/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/YXJZdUNORkFtX20w/Q09YT1JJRXFnSGFI/YSZwaWQ9QXBp", 
     },
     {
         id: 4,
         nombre: "leche",
         precio: 320,
-        img:"https://s2.abcstatics.com/media/bienestar/2020/07/09/leche-fucha-kqoG--1248x698@abc.jpg",
+        img:"https://imgs.search.brave.com/PhMcsRWeRAxZ1FGNiP_W_31dJNkZz1vmgwvtjQqs-YI/rs:fit:423:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/Y0JHYm00cWViT3hB/NDVLZzBmTnJnQUFB/QSZwaWQ9QXBp",
     },
 ];
